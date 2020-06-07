@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slab>
+    <no>1</no>
+    <range>4000</range>
+    <discount>10</discount>
+</slab>
+<slab>
+    <no>2</no>
+    <range>4000</range>
+    <discount>15</discount>
+</slab>
+<slab>
+    <no>3</no>
+    <range>4000</range>
+    <discount>20</discount>
+</slab>
+<slab>
+    <no>4</no>
+    <range>-1</range>
+    <discount>30</discount>
+</slab>
